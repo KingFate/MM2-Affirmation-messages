@@ -47,5 +47,14 @@
         "I feed my spirit. \nI train my body. \nI focus my mind. \nIts my time.",
         "I am in charge of my life.",
         "I alone hold the truth of who I am."
-    ]
+    ],
+    "rain" : [
+        "Might need an umbrella"
+        ],
+    "....-0-01": [
+        "Happy New Year!"
+        ],
+    "....-10-31": [
+        "Happy Halloween!"
+        ]
 }
